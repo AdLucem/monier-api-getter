@@ -3,7 +3,7 @@
 Clone the script and install requirements like so, from the linux terminal command line: 
 
 ```
-git clone  
+git clone https://github.com/AdLucem/monier-api-getter.git 
 pip install -r requirements.txt
 ```
 
