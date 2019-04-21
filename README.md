@@ -28,5 +28,13 @@ headword 2
 ===================================
 ```
 
+It also can read words from a file, given that the file has one word per line in the SLP1 format. Here's the command to do so:
+
+```
+$ python3 get_from_file.py <filename>
+```
+
+It prints the word no. (as given in the file), the word and the meanings in the above format, to terminal.
+
 If there's any issue with the script, please raise an issue.
 
